@@ -1,0 +1,34 @@
+{
+    "positivo": {
+        "nome": "Luis",
+        "cpf": "01234567890",
+        "email": "nada@nda.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "14020000",
+            "rua": "Avenida Doutor Francisco Junqueira",
+            "numero": "300",
+            "complemento": "Casa 1",
+            "bairro": "Vila Seixas",
+            "cidade_uf": "Ribeirão Preto/SP"
+        },
+        "metodo_entega": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "nome": "Luis",
+        "cpf": "0123456789a",
+        "email": "nada@nda.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "14020000",
+            "rua": "Avenida Doutor Francisco Junqueira",
+            "numero": "300",
+            "complemento": "Casa 1",
+            "bairro": "Vila Seixas",
+            "cidade_uf": "Ribeirão Preto/SP"
+        },
+        "metodo_entega": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}
