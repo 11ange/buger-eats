@@ -30,5 +30,21 @@
         },
         "metodo_entega": "Moto",
         "cnh": "/images/cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "nome": "Luis",
+        "cpf": "01234567890",
+        "email": "nada.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "14020000",
+            "rua": "Avenida Doutor Francisco Junqueira",
+            "numero": "300",
+            "complemento": "Casa 1",
+            "bairro": "Vila Seixas",
+            "cidade_uf": "Ribeirão Preto/SP"
+        },
+        "metodo_entega": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
     }
 }
