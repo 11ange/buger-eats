@@ -37,7 +37,8 @@ class SignupPage {
     }
 
     alertMessageShuldBe(mensagem) {
-        cy.get('.alert-error').should('have.text', mensagem)
+        //cy.get('.alert-error').should('have.text', mensagem)
+        cy.contains('.alert-error', mensagem).should('be.visible')
     }
 }
 export default new SignupPage;
